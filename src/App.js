@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Axios from "axios";
 
-const APIKEY = "RGAPI-7a24d5f3-b649-438d-924f-346b93cfc5cb";
+const APIKEY = "Your api key";
 
 function App() {
   const [search, setSearch] = useState("pattywaggon");
